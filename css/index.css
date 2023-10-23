@@ -1970,6 +1970,17 @@ figure.highlight pre .javascript .function {
   font-size: 1.6em;
   -webkit-line-clamp: 2;
 }
+.error404 #error-wrap .error-content .error-info .error_subtitle .button {
+  background-color: #00f;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.error404 #error-wrap .error-content .error-info .error_subtitle .button:hover {
+  background-color: #00008b;
+}
 .error404 + #rightside {
   display: none;
 }
